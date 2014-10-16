@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bug:home|Door43 (bug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bug|d43-bug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bug/archive/master.zip|d43-bug.zip]]
+
+**Recent Changes**
+{{changes>ns = bug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bug|Ethnologue data]]
+
